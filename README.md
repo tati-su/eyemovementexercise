@@ -1,2 +1,2 @@
 # eyemovementexercise
-Assignment for MITxPro
+Assignment for MITxPro using Javascript, CSS, HTML
